@@ -13,6 +13,38 @@
       "postId": 1
     }
   ],
+  "seller": [
+    {
+      "name": "Sara",
+      "email": "ballabanisara@gmail.com",
+      "password": "Sara1234",
+      "id": 1
+    },
+    {
+      "name": "peter",
+      "password": "sdff",
+      "email": "desara.ballabani@base-com.al",
+      "id": 2
+    },
+    {
+      "name": "may",
+      "password": "dsd",
+      "email": "desara.ballabani@base-com.al",
+      "id": 3
+    },
+    {
+      "name": "des",
+      "password": "s",
+      "email": "s",
+      "id": 4
+    },
+    {
+      "name": "d",
+      "password": "d",
+      "email": "d",
+      "id": 5
+    }
+  ],
   "profile": {
     "name": "typicode"
   }
