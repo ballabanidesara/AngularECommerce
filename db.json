@@ -97,6 +97,59 @@
       "password": "sf",
       "email": "faf",
       "id": 14
+    },
+    {
+      "name": "",
+      "password": "Sara1234",
+      "email": "ballabanisara@gmail.com",
+      "id": 15
+    }
+  ],
+  "products": [
+    {
+      "name": "Phone 14",
+      "price": "10000",
+      "category": "mobiles",
+      "color": "black",
+      "image": "https://www.google.com/search?sca_esv=574836027&q=iphone+14+image&tbm=isch&source=univ&fir=q3h0BCkzCNX_mM%252CcwJ5EH1vUIUm-M%252C_%253Bxbl5-LSZITgo4M%252CeLw3MxD-82itGM%252C_%253BgOLikxW29nuAvM%252CuDWTwgF-9hndkM%252C_%253Bm377xrNURPqWFM%252CFsgz02qNwzWNoM%252C_%253BM3bp1wfo4Tw9dM%252COQHHsKC55Xa6fM%252C_%253Ba4fisX5pJpTQyM%252C4na46cBHxVBeiM%252C_%253BKrwV-yoLTcJZjM%252CgQf-1OTfiQgTBM%252C_%253Bi36mc1BF4lueEM%252Cu4tvu4we3wqGJM%252C_%253BDLsyhXkt54OhkM%252Cl15sZN2yiq-tJM%252C_%253B9VCTIdPg8fhFaM%252CVu2BriVsyjE5HM%252C_%253BmEQ9S8DGG1F_mM%252CjFu9qdQDMPjUCM%252C_%253BWY2luUk18YRFhM%252CQWiJyWcJ85ldMM%252C_%253BjAUP89BSvR3vuM%252CFFaWzSREYXjGpM%252C_%253BJmywV8s9jEjQTM%252CgU8dFonpVFVA5M%252C_&usg=AI4_-kTWm8vfqTS6E3To1rSGwTgNOSoCzg&sa=X&ved=2ahUKEwjPudDMqIKCAxXmGFkFHQeqCVUQjJkEegQICBAC&biw=1846&bih=976&dpr=1#imgrc=KbRsibyqfdCFRM",
+      "description": "hello users",
+      "id": 1
+    },
+    {
+      "email": "samsung",
+      "price": "2500",
+      "color": "red",
+      "category": "mobile",
+      "description": "a samsung product",
+      "image": "dfghgfds",
+      "id": 2
+    },
+    {
+      "email": "samsung",
+      "price": "2500",
+      "color": "red",
+      "category": "mobile",
+      "description": "a samsung product",
+      "image": "dfghgfds",
+      "id": 3
+    },
+    {
+      "email": "iphone 13 ",
+      "price": "600",
+      "color": "white",
+      "category": "iphone",
+      "description": "very good",
+      "image": "image",
+      "id": 4
+    },
+    {
+      "email": "iphone 13 ",
+      "price": "600",
+      "color": "white",
+      "category": "iphone",
+      "description": "very good",
+      "image": "image",
+      "id": 5
     }
   ],
   "profile": {
