@@ -6,5 +6,12 @@ import { Component } from '@angular/core';
   styleUrls: ['./seller-add-product.component.css']
 })
 export class SellerAddProductComponent {
+  constructor() { }
+  ngOnInit(): void {
+
+  }
+  submit(data: object) {
+    console.warn(data)
+  }
 
 }
