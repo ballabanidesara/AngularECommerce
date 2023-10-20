@@ -139,36 +139,15 @@
       "password": "Sara1234",
       "email": "ballabanisara@gmail.com",
       "id": 21
+    },
+    {
+      "name": "",
+      "password": "Sara1234",
+      "email": "ballabanisara@gmail.com",
+      "id": 22
     }
   ],
   "products": [
-    {
-      "name": "Phone 14",
-      "price": "10000",
-      "category": "mobiles",
-      "color": "black",
-      "image": "https://www.apple.com/newsroom/2022/09/apple-introduces-iphone-14-and-iphone-14-plus/",
-      "description": "hello users",
-      "id": 1
-    },
-    {
-      "name": "samsung",
-      "price": "2500",
-      "color": "red",
-      "category": "mobile",
-      "description": "a samsung product",
-      "image": "https://www.google.com/search?q=iphone+image&sca_esv=574864701&tbm=isch&source=lnms&sa=X&sqi=2&ved=2ahUKEwj79q3MxoKCAxXUD1kFHRQUAfQQ_AUoAXoECAEQAw&biw=1846&bih=976&dpr=1#imgrc=VMc796n0kThW_M",
-      "id": 2
-    },
-    {
-      "name": "samsung",
-      "price": "2500",
-      "color": "red",
-      "category": "mobile",
-      "description": "a samsung product",
-      "image": "https://www.google.com/search?q=iphone+image&sca_esv=574864701&tbm=isch&source=lnms&sa=X&sqi=2&ved=2ahUKEwj79q3MxoKCAxXUD1kFHRQUAfQQ_AUoAXoECAEQAw&biw=1846&bih=976&dpr=1#imgrc=VMc796n0kThW_M",
-      "id": 3
-    },
     {
       "name": "iphone 13 ",
       "price": "600",
