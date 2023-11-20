@@ -1,66 +1,11 @@
-<div class="row search-item">
+<div class="row search-item" *ngFor="let item of searchResult">
     <div class="col-sm-3">
-        <img src="https://m.media-amazon.com/images/I/61HnuJc8WHL._AC_UF894,1000_QL80_.jpg" alt="">
+        <img src="{{item.image}}" alt="">
     </div>
     <div class="col-sm-8 details">
-        <h6></h6>
-        <p><b>Price:10000</b></p>
-        <p><span>color: Red</span><span>Category Mobile</span></p>
-        <p>A product search UI</p>
-    </div>
-</div>
-<div class="row search-item">
-    <div class="col-sm-3">
-        <img src="https://m.media-amazon.com/images/I/61HnuJc8WHL._AC_UF894,1000_QL80_.jpg" alt="">
-    </div>
-    <div class="col-sm-8 details">
-        <h6></h6>
-        <p><b>Price:10000</b></p>
-        <p><span>color: Red</span><span>Category Mobile</span></p>
-        <p>A product search UI</p>
-    </div>
-</div>
-<div class="row search-item">
-    <div class="col-sm-3">
-        <img src="https://m.media-amazon.com/images/I/61HnuJc8WHL._AC_UF894,1000_QL80_.jpg" alt="">
-    </div>
-    <div class="col-sm-8 details">
-        <h6></h6>
-        <p><b>Price:10000</b></p>
-        <p><span>color: Red</span><span>Category Mobile</span></p>
-        <p>A product search UI</p>
-    </div>
-</div>
-<div class="row search-item">
-    <div class="col-sm-3">
-        <img src="https://m.media-amazon.com/images/I/61HnuJc8WHL._AC_UF894,1000_QL80_.jpg" alt="">
-    </div>
-    <div class="col-sm-8 details">
-        <h6></h6>
-        <p><b>Price:10000</b></p>
-        <p><span>color: Red</span><span>Category Mobile</span></p>
-        <p>A product search UI</p>
-    </div>
-</div>
-<div class="row search-item">
-    <div class="col-sm-3">
-        <img src="https://m.media-amazon.com/images/I/61HnuJc8WHL._AC_UF894,1000_QL80_.jpg" alt="">
-    </div>
-    <div class="col-sm-8 details">
-        <h6></h6>
-        <p><b>Price:10000</b></p>
-        <p><span>color: Red</span><span>Category Mobile</span></p>
-        <p>A product search UI</p>
-    </div>
-</div>
-<div class="row search-item">
-    <div class="col-sm-3">
-        <img src="https://m.media-amazon.com/images/I/61HnuJc8WHL._AC_UF894,1000_QL80_.jpg" alt="">
-    </div>
-    <div class="col-sm-8 details">
-        <h6></h6>
-        <p><b>Price:10000</b></p>
-        <p><span>color: Red</span><span>Category Mobile</span></p>
-        <p>A product search UI</p>
+        <h6>{{item.name}}</h6>
+        <p><b>{{item.price}}</b></p>
+        <p><span>{{item.color}}</span><span>Category Mobile</span></p>
+        <p>{{item.description}}</p>
     </div>
 </div>
