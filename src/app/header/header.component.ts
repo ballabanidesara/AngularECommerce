@@ -49,6 +49,7 @@ export class HeaderComponent implements OnInit {
         }
         result.length = 5;
         this.searchResult = result;
+       
 
       })
       console.warn(element.value)
