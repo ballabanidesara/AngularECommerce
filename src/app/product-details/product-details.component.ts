@@ -23,10 +23,20 @@ export class ProductDetailsComponent implements OnInit {
   }
 
   handleQuantity(val: string) {
-    if(this.productQuantity < 20 && val === 'plus'){
-      this.productQuantity +=1
-    } else if (this.productQuantity > 1 && val === 'minus'){
+    if (this.productQuantity < 20 && val === 'plus') {
+      this.productQuantity += 1
+    } else if (this.productQuantity > 1 && val === 'minus') {
       this.productQuantity -= 1
+    }
+  }
+
+  AddToCart() {
+    if (this.productData) {
+      this.productData.quantity = this.productQuantity;
+      if (!localStorage.getItem('user')) {
+        this.product.localAddtoCart(this.productData);
+      }
+   
     }
   }
 

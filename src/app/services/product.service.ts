@@ -28,15 +28,27 @@ export class ProductService {
     return this.http.put<product>(`http://localhost:3000/products/${product.id}`, product);
   }
 
-  popularProducts(){
+  popularProducts() {
     return this.http.get<product[]>('http://localhost:3000/products?_limit=3');
   }
 
-  trendyProducts(){
+  trendyProducts() {
     return this.http.get<product[]>('http://localhost:3000/products?_limit=8');
   }
 
-  searchProducts(query:string){
+  searchProducts(query: string) {
     return this.http.get<product[]>(`http://localhost:3000/products?q=${query}`);
+  }
+
+  localAddtoCart(data: product) {
+    let cartData = [];
+    let localCart = localStorage.getItem('localCart');
+    if (!localCart) {
+      localStorage.setItem('localCart', JSON.stringify([data]))
+    } else {
+      cartData = JSON.parse(localCart);
+      cartData.push(data)
+      localStorage.setItem('localCart', JSON.stringify(cartData))
+    }
   }
 }
