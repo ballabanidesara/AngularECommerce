@@ -46,7 +46,7 @@ export class ProductDetailsComponent implements OnInit {
     if (this.productData) {
       this.productData.quantity = this.productQuantity;
       if (!localStorage.getItem('user')) {
-        this.product.localAddtoCart(this.productData);
+        this.product.localAddToCart(this.productData);
         this.removeCart = true;
       } else {
         console.warn("user is logged in")
@@ -71,7 +71,7 @@ export class ProductDetailsComponent implements OnInit {
   }
 
   removeToCart(productId: number) {
-    this.product.removeItemfromCart(productId)
+    this.product.removeItemFromCart(productId)
     this.removeCart = false;
   }
 
