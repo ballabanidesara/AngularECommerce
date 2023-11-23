@@ -10,7 +10,6 @@ export class UserService {
 
   invaliduserAuth = new EventEmitter<boolean>(false);
   constructor(
-    private user: UserService,
     private http: HttpClient,
     private router: Router) { }
 

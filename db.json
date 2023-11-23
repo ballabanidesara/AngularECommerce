@@ -391,6 +391,24 @@
       "password": "Sara1234",
       "email": "ballabanisara@gmail.com",
       "id": 63
+    },
+    {
+      "name": "",
+      "password": "Anil123",
+      "email": "anil@user.com",
+      "id": 64
+    },
+    {
+      "name": "sara",
+      "password": "Anil123",
+      "email": "anil@user.com",
+      "id": 65
+    },
+    {
+      "name": "",
+      "password": "Anil123",
+      "email": "anil@user.com",
+      "id": 66
     }
   ],
   "products": [
@@ -452,6 +470,48 @@
   "profile": {
     "name": "typicode"
   },
-  "users": [],
-  "cart": []
+  "users": [
+    {
+      "name": "anil",
+      "email": "anil@user.com",
+      "password": "Anil123",
+      "id": 1
+    }
+  ],
+  "cart": [
+    {
+      "name": "iphon 13 pro",
+      "price": "2500",
+      "color": "white",
+      "category": "iphone",
+      "description": "good as well",
+      "image": "https://m.media-amazon.com/images/I/61HnuJc8WHL._AC_UF894,1000_QL80_.jpg",
+      "id": 7,
+      "quantity": 1,
+      "userId": {
+        "name": "anil",
+        "email": "anil@user.com",
+        "password": "Anil123",
+        "id": 1
+      },
+      "productId": 7
+    },
+    {
+      "name": "iphone 8",
+      "price": "600",
+      "color": "red",
+      "category": "iphone",
+      "description": "apple",
+      "image": "https://m.media-amazon.com/images/I/61XO4bORHUL._AC_UF1000,1000_QL80_.jpg",
+      "id": 8,
+      "quantity": 1,
+      "userId": {
+        "name": "anil",
+        "email": "anil@user.com",
+        "password": "Anil123",
+        "id": 1
+      },
+      "productId": 8
+    }
+  ]
 }
