@@ -8,10 +8,10 @@ import { UserService } from '../services/user.service';
   styleUrls: ['./user-auth.component.css']
 })
 export class UserAuthComponent implements OnInit {
-
+constructor(private user: UserService) { }
   showLogin: boolean = true;
   authError: string = "";
-  constructor(private user: UserService) { }
+  
 
   ngOnInit(): void {
 
