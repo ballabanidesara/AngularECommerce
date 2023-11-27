@@ -70,7 +70,6 @@ export class ProductService {
   addToCart(cartData: cart) {
     return this.http.post('http://localhost:3000/cart', cartData);
   }
-
   getCartList(userId: number) {
     return this.http
       .get<product[]>('http://localhost:3000/cart?userId=' + userId, {
@@ -82,5 +81,7 @@ export class ProductService {
         }
       });
   }
-
+  removeToCart(cartId: number) {
+    return this.http.delete('http://localhost:3000/cart/' + cartId);
+  }
 }
