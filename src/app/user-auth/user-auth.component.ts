@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { SignUp, cart, login, product } from '../data-type';
+import { signUp, cart, login, product } from '../data-type';
 import { UserService } from '../services/user.service';
 import { ProductService } from '../services/product.service';
 
@@ -18,7 +18,7 @@ export class UserAuthComponent implements OnInit {
 
   }
 
-  signUp(data: SignUp) {
+  signUp(data: signUp) {
     console.warn(data)
   }
 

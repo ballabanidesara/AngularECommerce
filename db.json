@@ -495,6 +495,30 @@
         "id": 1
       },
       "productId": 10
+    },
+    {
+      "name": "iphon 13 pro",
+      "price": "2500",
+      "color": "white",
+      "category": "iphone",
+      "description": "good as well",
+      "image": "https://m.media-amazon.com/images/I/61HnuJc8WHL._AC_UF894,1000_QL80_.jpg",
+      "quantity": 3,
+      "productId": 7,
+      "userId": 1,
+      "id": 11
+    },
+    {
+      "name": "iphone 8",
+      "price": "600",
+      "color": "red",
+      "category": "iphone",
+      "description": "apple",
+      "image": "https://m.media-amazon.com/images/I/61XO4bORHUL._AC_UF1000,1000_QL80_.jpg",
+      "quantity": 2,
+      "productId": 8,
+      "userId": 1,
+      "id": 12
     }
   ]
 }

@@ -1,5 +1,5 @@
 import { EventEmitter, Injectable } from '@angular/core';
-import { SignUp, login } from '../data-type';
+import { signUp, login } from '../data-type';
 import { HttpClient } from '@angular/common/http';
 import { Router } from '@angular/router';
 
@@ -13,7 +13,7 @@ export class UserService {
     private http: HttpClient,
     private router: Router) { }
 
-  userSignUp(user: SignUp) {
+  userSignUp(user: signUp) {
     this.http.post("http://localhost:3000/users", user, { observe: 'response' }).subscribe((result) => {
       console.warn(result);
       if (result) {
@@ -24,7 +24,7 @@ export class UserService {
   }
 
   userLogin(data: login) {
-    this.http.get<SignUp[]>(`http://localhost:3000/users?email=${data.email}&password=${data.password}`,
+    this.http.get<signUp[]>(`http://localhost:3000/users?email=${data.email}&password=${data.password}`,
       { observe: 'response' })
       .subscribe((result) => {
         if (result && result.body?.length) {
