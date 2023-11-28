@@ -478,47 +478,23 @@
       "id": 1
     }
   ],
-  "cart": [
+  "cart": [],
+  "orders": [
     {
-      "name": "iphone 10",
-      "price": "2344",
-      "color": "black",
-      "category": "iphone",
-      "description": "apple",
-      "image": "https://m.media-amazon.com/images/I/61XO4bORHUL._AC_UF1000,1000_QL80_.jpg",
-      "id": 10,
-      "quantity": 2,
-      "userId": {
-        "name": "anil",
-        "email": "anil@user.com",
-        "password": "Anil123",
-        "id": 1
-      },
-      "productId": 10
+      "email": "anil@user.com",
+      "address": "Albania",
+      "contact": "Tirana",
+      "totalPrice": 10832,
+      "userId": 1,
+      "id": 1
     },
     {
-      "name": "iphon 13 pro",
-      "price": "2500",
-      "color": "white",
-      "category": "iphone",
-      "description": "good as well",
-      "image": "https://m.media-amazon.com/images/I/61HnuJc8WHL._AC_UF894,1000_QL80_.jpg",
-      "quantity": 3,
-      "productId": 7,
+      "email": "anil@user.com",
+      "address": "Albania",
+      "contact": "Tirana",
+      "totalPrice": 10832,
       "userId": 1,
-      "id": 11
-    },
-    {
-      "name": "iphone 8",
-      "price": "600",
-      "color": "red",
-      "category": "iphone",
-      "description": "apple",
-      "image": "https://m.media-amazon.com/images/I/61XO4bORHUL._AC_UF1000,1000_QL80_.jpg",
-      "quantity": 2,
-      "productId": 8,
-      "userId": 1,
-      "id": 12
+      "id": 2
     }
   ]
 }
