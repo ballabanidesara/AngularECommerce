@@ -478,16 +478,21 @@
       "id": 1
     }
   ],
-  "cart": [],
-  "orders": [
+  "cart": [
     {
-      "email": "anil@user.com",
-      "address": "Albania",
-      "contact": "Tirana",
-      "totalPrice": 10832,
+      "name": "iphone 8",
+      "price": "600",
+      "color": "red",
+      "category": "iphone",
+      "description": "apple",
+      "image": "https://m.media-amazon.com/images/I/61XO4bORHUL._AC_UF1000,1000_QL80_.jpg",
+      "quantity": 1,
+      "productId": 8,
       "userId": 1,
       "id": 1
-    },
+    }
+  ],
+  "orders": [
     {
       "email": "anil@user.com",
       "address": "Albania",
