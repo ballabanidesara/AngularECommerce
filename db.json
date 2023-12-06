@@ -75,7 +75,7 @@
     },
     {
       "name": "Iphone 14 Pro Max",
-      "price": "1099",
+      "price": "1098",
       "color": "black",
       "category": "iphone",
       "description": "Apple iPhone 14 Pro Max, 128GB",
@@ -115,29 +115,29 @@
   },
   "users": [
     {
-      "name": "anil",
-      "email": "anil@user.com",
-      "password": "Anil123",
+      "name": "desara",
+      "email": "desara@basecom.com",
+      "password": "Desara123",
       "id": 1
     }
   ],
   "cart": [],
   "orders": [
     {
-      "email": "",
-      "address": "",
-      "contact": "",
-      "totalPrice": 1600,
+      "email": "ballabanisara@gmail.com",
+      "address": "Tirana, Albania",
+      "contact": "0697228166",
+      "totalPrice": 900,
       "userId": 1,
-      "id": 4
+      "id": 1
     },
     {
       "email": "",
       "address": "",
       "contact": "",
-      "totalPrice": 900,
+      "totalPrice": 3000,
       "userId": 1,
-      "id": 5
+      "id": 2
     }
   ]
 }
