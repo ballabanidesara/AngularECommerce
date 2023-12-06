@@ -121,43 +121,23 @@
       "id": 1
     }
   ],
-  "cart": [
+  "cart": [],
+  "orders": [
     {
-      "name": "Iphone 13 Pro",
-      "price": "700",
-      "color": "black",
-      "category": "iphone",
-      "description": "Apple iPhone 13 Pro, 128GB",
-      "image": "https://cdnprod.mafretailproxy.com/sys-master-root/hce/h0d/33244728721438/1901700_main.jpg_480Wx480H",
-      "quantity": 2,
-      "productId": 2,
+      "email": "",
+      "address": "",
+      "contact": "",
+      "totalPrice": 1600,
       "userId": 1,
-      "id": 1
+      "id": 4
     },
     {
-      "name": "Iphone 15 Pro Max",
-      "price": "1199",
-      "color": "black",
-      "category": "iphone",
-      "description": "Apple iPhone 15 Pro Max, 128GB",
-      "image": "https://cashatmaxx.co.uk/cdn/shop/files/Untitled_dffff09f-41a9-4fda-a5db-7bdecaa19964.jpg?v=1695630426",
-      "quantity": 4,
-      "productId": 9,
+      "email": "",
+      "address": "",
+      "contact": "",
+      "totalPrice": 900,
       "userId": 1,
-      "id": 2
-    },
-    {
-      "name": "Iphone 13 Pro Max",
-      "price": "800",
-      "color": "black",
-      "category": "iphone",
-      "description": "Apple iPhone 13 Pro Max, 128GB",
-      "image": "https://cdnprod.mafretailproxy.com/sys-master-root/hce/h0d/33244728721438/1901700_main.jpg_480Wx480H",
-      "quantity": 1,
-      "productId": 3,
-      "userId": 1,
-      "id": 3
+      "id": 5
     }
-  ],
-  "orders": []
+  ]
 }
