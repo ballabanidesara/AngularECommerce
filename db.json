@@ -25,446 +25,89 @@
       "password": "sdff",
       "email": "desara.ballabani@base-com.al",
       "id": 2
-    },
-    {
-      "name": "may",
-      "password": "dsd",
-      "email": "desara.ballabani@base-com.al",
-      "id": 3
-    },
-    {
-      "name": "des",
-      "password": "s",
-      "email": "s",
-      "id": 4
-    },
-    {
-      "name": "d",
-      "password": "d",
-      "email": "d",
-      "id": 5
-    },
-    {
-      "name": "as",
-      "password": "s",
-      "email": "s",
-      "id": 6
-    },
-    {
-      "name": "sd",
-      "password": "d",
-      "email": "d",
-      "id": 7
-    },
-    {
-      "name": "alena",
-      "password": "abc",
-      "email": "alena@test.com",
-      "id": 8
-    },
-    {
-      "name": "mad",
-      "password": "sawdf",
-      "email": "alena@test.com",
-      "id": 9
-    },
-    {
-      "name": "s",
-      "password": "sx",
-      "email": "sxs",
-      "id": 10
-    },
-    {
-      "name": "dc",
-      "password": "dc",
-      "email": "dc",
-      "id": 11
-    },
-    {
-      "name": "",
-      "password": "",
-      "email": "",
-      "id": 12
-    },
-    {
-      "name": "ad",
-      "password": "sf",
-      "email": "faf",
-      "id": 13
-    },
-    {
-      "name": "",
-      "password": "sf",
-      "email": "faf",
-      "id": 14
-    },
-    {
-      "name": "",
-      "password": "Sara1234",
-      "email": "ballabanisara@gmail.com",
-      "id": 15
-    },
-    {
-      "name": "",
-      "password": "Sara1234",
-      "email": "ballabanisara@gmail.com",
-      "id": 16
-    },
-    {
-      "name": "",
-      "password": "Sara1234",
-      "email": "ballabanisara@gmail.com",
-      "id": 17
-    },
-    {
-      "name": "",
-      "password": "Sara1234",
-      "email": "ballabanisara@gmail.com",
-      "id": 18
-    },
-    {
-      "name": "",
-      "password": "Sara1234",
-      "email": "ballabanisara@gmail.com",
-      "id": 19
-    },
-    {
-      "name": "",
-      "password": "Sara1234",
-      "email": "ballabanisara@gmail.com",
-      "id": 20
-    },
-    {
-      "name": "",
-      "password": "Sara1234",
-      "email": "ballabanisara@gmail.com",
-      "id": 21
-    },
-    {
-      "name": "",
-      "password": "Sara1234",
-      "email": "ballabanisara@gmail.com",
-      "id": 22
-    },
-    {
-      "name": "",
-      "password": "desara12345",
-      "email": "ballabanisara@gmail.com",
-      "id": 23
-    },
-    {
-      "name": "",
-      "password": "",
-      "email": "",
-      "id": 24
-    },
-    {
-      "name": "desara",
-      "password": "desara",
-      "email": "ballabanisara@gmail.com",
-      "id": 25
-    },
-    {
-      "name": "",
-      "password": "desara",
-      "email": "ballabanisara@gmail.com",
-      "id": 26
-    },
-    {
-      "name": "",
-      "password": "",
-      "email": "",
-      "id": 27
-    },
-    {
-      "name": "",
-      "password": "",
-      "email": "",
-      "id": 28
-    },
-    {
-      "name": "",
-      "password": "",
-      "email": "",
-      "id": 29
-    },
-    {
-      "name": "",
-      "password": "",
-      "email": "",
-      "id": 30
-    },
-    {
-      "name": "",
-      "password": "",
-      "email": "",
-      "id": 31
-    },
-    {
-      "name": "sara",
-      "password": "rt",
-      "email": "erf",
-      "id": 32
-    },
-    {
-      "name": "",
-      "password": "rt",
-      "email": "erf",
-      "id": 33
-    },
-    {
-      "name": "",
-      "password": "s",
-      "email": "ballabanisara@gmail.com",
-      "id": 34
-    },
-    {
-      "name": "",
-      "password": "s",
-      "email": "ballabanisara@gmail.com",
-      "id": 35
-    },
-    {
-      "name": "",
-      "password": "s",
-      "email": "ballabanisara@gmail.com",
-      "id": 36
-    },
-    {
-      "name": "",
-      "password": "s",
-      "email": "ballabanisara@gmail.com",
-      "id": 37
-    },
-    {
-      "name": "",
-      "password": "",
-      "email": "",
-      "id": 38
-    },
-    {
-      "name": "",
-      "password": "",
-      "email": "",
-      "id": 39
-    },
-    {
-      "name": "",
-      "password": "",
-      "email": "",
-      "id": 40
-    },
-    {
-      "name": "",
-      "password": "",
-      "email": "",
-      "id": 41
-    },
-    {
-      "name": "",
-      "password": "",
-      "email": "",
-      "id": 42
-    },
-    {
-      "name": "",
-      "password": "",
-      "email": "",
-      "id": 43
-    },
-    {
-      "name": "",
-      "password": "",
-      "email": "",
-      "id": 44
-    },
-    {
-      "name": "",
-      "password": "",
-      "email": "",
-      "id": 45
-    },
-    {
-      "name": "",
-      "password": "",
-      "email": "",
-      "id": 46
-    },
-    {
-      "name": "",
-      "password": "",
-      "email": "",
-      "id": 47
-    },
-    {
-      "name": "",
-      "password": "",
-      "email": "",
-      "id": 48
-    },
-    {
-      "name": "",
-      "password": "Sara1234",
-      "email": "ballabanisara@gmail.com",
-      "id": 49
-    },
-    {
-      "name": "",
-      "password": "Sara1234",
-      "email": "ballabanisara@gmail.com",
-      "id": 50
-    },
-    {
-      "name": "",
-      "password": "Sara1234",
-      "email": "ballabanisara@gmail.com",
-      "id": 51
-    },
-    {
-      "name": "",
-      "password": "Sara1234",
-      "email": "ballabanisara@gmail.com",
-      "id": 52
-    },
-    {
-      "name": "",
-      "password": "Sara1234",
-      "email": "ballabanisara@gmail.com",
-      "id": 53
-    },
-    {
-      "name": "",
-      "password": "Sara1234",
-      "email": "ballabanisara@gmail.com",
-      "id": 54
-    },
-    {
-      "name": "",
-      "password": "",
-      "email": "",
-      "id": 55
-    },
-    {
-      "name": "",
-      "password": "Sara1234",
-      "email": "ballabanisara@gmail.com",
-      "id": 56
-    },
-    {
-      "name": "",
-      "password": "Sara1234",
-      "email": "ballabanisara@gmail.com",
-      "id": 57
-    },
-    {
-      "name": "",
-      "password": "Sara1234",
-      "email": "ballabanisara@gmail.com",
-      "id": 58
-    },
-    {
-      "name": "",
-      "password": "Sara1234",
-      "email": "ballabanisara@gmail.com",
-      "id": 59
-    },
-    {
-      "name": "sara",
-      "password": "Sara1234",
-      "email": "ballabanisara@gmail.com",
-      "id": 60
-    },
-    {
-      "name": "desara",
-      "password": "Sara1234",
-      "email": "ballabanisara@gmail.com",
-      "id": 61
-    },
-    {
-      "name": "",
-      "password": "Sara1234",
-      "email": "ballabanisara@gmail.com",
-      "id": 62
-    },
-    {
-      "name": "desara",
-      "password": "Sara1234",
-      "email": "ballabanisara@gmail.com",
-      "id": 63
-    },
-    {
-      "name": "",
-      "password": "Anil123",
-      "email": "anil@user.com",
-      "id": 64
-    },
-    {
-      "name": "sara",
-      "password": "Anil123",
-      "email": "anil@user.com",
-      "id": 65
-    },
-    {
-      "name": "",
-      "password": "Anil123",
-      "email": "anil@user.com",
-      "id": 66
     }
   ],
   "products": [
     {
-      "name": "iphone 14",
-      "price": "700",
+      "name": "Iphone 13",
+      "price": "599",
       "color": "white",
       "category": "iphone",
-      "description": "very good",
-      "image": "https://m.media-amazon.com/images/I/61XO4bORHUL._AC_UF1000,1000_QL80_.jpg",
+      "description": "Apple iPhone 13, 128GB",
+      "image": "https://www.apple.com/newsroom/images/product/iphone/geo/Apple-iPhone-14-iPhone-14-Plus-2up-starlight-220907-geo_inline.jpg.large.jpg",
+      "id": 1
+    },
+    {
+      "name": "Iphone 13 Pro",
+      "price": "700",
+      "color": "black",
+      "category": "iphone",
+      "description": "Apple iPhone 13 Pro, 128GB",
+      "image": "https://cdnprod.mafretailproxy.com/sys-master-root/hce/h0d/33244728721438/1901700_main.jpg_480Wx480H",
+      "id": 2
+    },
+    {
+      "name": "Iphone 13 Pro Max",
+      "price": "800",
+      "color": "black",
+      "category": "iphone",
+      "description": "Apple iPhone 13 Pro Max, 128GB",
+      "image": "https://cdnprod.mafretailproxy.com/sys-master-root/hce/h0d/33244728721438/1901700_main.jpg_480Wx480H",
+      "id": 3
+    },
+    {
+      "name": "Iphone 14",
+      "price": "799",
+      "color": "white",
+      "category": "iphone",
+      "description": "Apple iPhone 14, 128GB",
+      "image": "https://www.apple.com/newsroom/images/product/iphone/geo/Apple-iPhone-14-iPhone-14-Plus-2up-starlight-220907-geo_inline.jpg.large.jpg",
+      "id": 4
+    },
+    {
+      "name": "Iphone 14 Pro",
+      "price": "999",
+      "color": "black",
+      "category": "iphone",
+      "description": "Apple iPhone 14 Pro, 128GB",
+      "image": "https://cashatmaxx.co.uk/cdn/shop/files/Untitled_dffff09f-41a9-4fda-a5db-7bdecaa19964.jpg?v=1695630426",
       "id": 5
     },
     {
-      "name": "iphone 15 pro",
-      "price": "3000",
+      "name": "Iphone 14 Pro Max",
+      "price": "1099",
       "color": "black",
       "category": "iphone",
-      "description": "good",
-      "image": "https://media.ldlc.com/r1600/ld/products/00/06/06/41/LD0006064109.jpg",
+      "description": "Apple iPhone 14 Pro Max, 128GB",
+      "image": "https://cdnprod.mafretailproxy.com/sys-master-root/hce/h0d/33244728721438/1901700_main.jpg_480Wx480H",
       "id": 6
     },
     {
-      "name": "iphon 13 pro",
-      "price": "2500",
-      "color": "white",
+      "name": "Iphone 15",
+      "price": "799",
+      "color": "black",
       "category": "iphone",
-      "description": "good as well",
-      "image": "https://m.media-amazon.com/images/I/61HnuJc8WHL._AC_UF894,1000_QL80_.jpg",
+      "description": "Apple iPhone 15, 128GB",
+      "image": "https://media.ldlc.com/r1600/ld/products/00/06/06/41/LD0006064109.jpg",
       "id": 7
     },
     {
-      "name": "iphone 8",
-      "price": "600",
-      "color": "red",
+      "name": "Iphone 15 Pro",
+      "price": "899",
+      "color": "black",
       "category": "iphone",
-      "description": "apple",
-      "image": "https://m.media-amazon.com/images/I/61XO4bORHUL._AC_UF1000,1000_QL80_.jpg",
+      "description": "Apple iPhone 15 Pro, 128GB",
+      "image": "https://cdnprod.mafretailproxy.com/sys-master-root/hce/h0d/33244728721438/1901700_main.jpg_480Wx480H",
       "id": 8
     },
     {
-      "name": "iphone 9",
-      "price": "600",
-      "color": "white",
-      "category": "iphone",
-      "description": "apple",
-      "image": "https://m.media-amazon.com/images/I/61XO4bORHUL._AC_UF1000,1000_QL80_.jpg",
-      "id": 9
-    },
-    {
-      "name": "iphone 10",
-      "price": "2344",
+      "name": "Iphone 15 Pro Max",
+      "price": "1199",
       "color": "black",
       "category": "iphone",
-      "description": "apple",
-      "image": "https://m.media-amazon.com/images/I/61XO4bORHUL._AC_UF1000,1000_QL80_.jpg",
-      "id": 10
+      "description": "Apple iPhone 15 Pro Max, 128GB",
+      "image": "https://cashatmaxx.co.uk/cdn/shop/files/Untitled_dffff09f-41a9-4fda-a5db-7bdecaa19964.jpg?v=1695630426",
+      "id": 9
     }
   ],
   "profile": {
@@ -480,26 +123,41 @@
   ],
   "cart": [
     {
-      "name": "iphone 8",
-      "price": "600",
-      "color": "red",
+      "name": "Iphone 13 Pro",
+      "price": "700",
+      "color": "black",
       "category": "iphone",
-      "description": "apple",
-      "image": "https://m.media-amazon.com/images/I/61XO4bORHUL._AC_UF1000,1000_QL80_.jpg",
-      "quantity": 1,
-      "productId": 8,
+      "description": "Apple iPhone 13 Pro, 128GB",
+      "image": "https://cdnprod.mafretailproxy.com/sys-master-root/hce/h0d/33244728721438/1901700_main.jpg_480Wx480H",
+      "quantity": 2,
+      "productId": 2,
       "userId": 1,
       "id": 1
-    }
-  ],
-  "orders": [
+    },
     {
-      "email": "anil@user.com",
-      "address": "Albania",
-      "contact": "Tirana",
-      "totalPrice": 10832,
+      "name": "Iphone 15 Pro Max",
+      "price": "1199",
+      "color": "black",
+      "category": "iphone",
+      "description": "Apple iPhone 15 Pro Max, 128GB",
+      "image": "https://cashatmaxx.co.uk/cdn/shop/files/Untitled_dffff09f-41a9-4fda-a5db-7bdecaa19964.jpg?v=1695630426",
+      "quantity": 4,
+      "productId": 9,
       "userId": 1,
       "id": 2
+    },
+    {
+      "name": "Iphone 13 Pro Max",
+      "price": "800",
+      "color": "black",
+      "category": "iphone",
+      "description": "Apple iPhone 13 Pro Max, 128GB",
+      "image": "https://cdnprod.mafretailproxy.com/sys-master-root/hce/h0d/33244728721438/1901700_main.jpg_480Wx480H",
+      "quantity": 1,
+      "productId": 3,
+      "userId": 1,
+      "id": 3
     }
-  ]
+  ],
+  "orders": []
 }
