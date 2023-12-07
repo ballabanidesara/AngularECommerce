@@ -145,6 +145,42 @@
       "productId": 2,
       "userId": 1,
       "id": 2
+    },
+    {
+      "name": "Iphone 15 Pro",
+      "price": "899",
+      "color": "black",
+      "category": "iphone",
+      "description": "Apple iPhone 15 Pro, 128GB",
+      "image": "https://cdnprod.mafretailproxy.com/sys-master-root/hce/h0d/33244728721438/1901700_main.jpg_480Wx480H",
+      "quantity": 3,
+      "productId": 8,
+      "userId": 1,
+      "id": 3
+    },
+    {
+      "name": "Iphone 13 Pro",
+      "price": "700",
+      "color": "black",
+      "category": "iphone",
+      "description": "Apple iPhone 13 Pro, 128GB",
+      "image": "https://cdnprod.mafretailproxy.com/sys-master-root/hce/h0d/33244728721438/1901700_main.jpg_480Wx480H",
+      "quantity": 2,
+      "productId": 2,
+      "userId": null,
+      "id": 4
+    },
+    {
+      "name": "Iphone 13 Pro Max",
+      "price": "800",
+      "color": "black",
+      "category": "iphone",
+      "description": "Apple iPhone 13 Pro Max, 128GB",
+      "image": "https://cdnprod.mafretailproxy.com/sys-master-root/hce/h0d/33244728721438/1901700_main.jpg_480Wx480H",
+      "quantity": 1,
+      "productId": 3,
+      "userId": 1,
+      "id": 5
     }
   ],
   "orders": [
